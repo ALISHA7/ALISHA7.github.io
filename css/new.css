@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+input[type=text], input[type=password],input[type=number], input[type=email] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+input[type=submit] {
+    background-color: #c7254e;
+    color: white;
+    padding: 14px 20px;
+    border: ridge;
+    cursor: pointer;
+    width: 200px;
+	margin-left:170px;
+}
+
+
+
+
